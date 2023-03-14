@@ -1,6 +1,9 @@
-- 👋 Hi, I’m Loïc
-- 👀 I’m interested in web & video games developpement
-- 🌱 I’m currently learning computer sciences at the university institute of technology of Fontainebleau
+- 👋 Bonjour à tous et bienvenue sur mon github ! 
+Vous trouverez ici mes projets divers est variés que j'ai pu réaliser au cours de ma carrière.
+
+- 👀 Je suis principalement intéréssé par la cybersécrité en général, et plus particulièrement le pentesting, mais également par le developement d'application web et jeux vidéos. J'ai eu la chance de pouvoir découvrir tous ces sujets grâce à mon parcours généraliste et de les appronfondir lors de mon temps libre grâce à ma curiosité. 
+
+- 🌱 
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me : loicnirlo79@gmail.com
 
