@@ -1,11 +1,13 @@
 - 👋 Bonjour à tous et bienvenue sur mon github ! 
 Vous trouverez ici mes projets divers est variés que j'ai pu réaliser au cours de ma carrière.
 
-- 👀 Je suis principalement intéréssé par la cybersécrité en général, et plus particulièrement le pentesting, mais également par le developement d'application web et jeux vidéos. J'ai eu la chance de pouvoir découvrir tous ces sujets grâce à mon parcours généraliste et de les appronfondir lors de mon temps libre grâce à ma curiosité. 
+Site Portfolio : https://lolox911.github.io/Portfolio/
 
-- 🌱 
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me : loicnirlo79@gmail.com
+- 👀 Je suis principalement intéréssé par la cybersécrité (Blue team / SOC, Red teaming/pentesting) mais également par le developement d'application web et jeux vidéos. J'ai eu la chance de pouvoir découvrir tous ces sujets grâce à mon parcours scolaire généraliste et étant curieux de nature, j'ai pu les appronfondir durant de mon temps libre. 
+
+- 🌱 Je suis actuellement en recherche d'une alternance dans le domaine de la cybersécurité au niveau bac +4/+5.
+- 🕵️ Je suis également ouvert à toute proposition de projet informatique.
+- 📫 Contact : loicnirlo79@gmail.com
 
 <!---
 lolox911/lolox911 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
