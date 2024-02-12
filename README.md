@@ -5,8 +5,7 @@ Site Portfolio : https://lolox911.github.io/Portfolio2/
 
 - 👀 Je suis principalement intéréssé par la cybersécrité (Blue team / SOC, Red teaming/pentesting) mais également par le developement d'application web et jeux vidéos. J'ai eu la chance de pouvoir découvrir tous ces sujets grâce à mon parcours scolaire généraliste et étant curieux de nature, j'ai pu les appronfondir durant de mon temps libre. 
 
-- 🌱 Je suis actuellement en recherche d'une alternance dans le domaine de la cybersécurité au niveau bac +4/+5.
-- 🕵️ Je suis également ouvert à toute proposition de projet informatique.
+- 🕵️ Je suis ouvert à toute proposition de projet informatique.
 - 📫 Contact : loicnirlo79@gmail.com
 
 <!---
